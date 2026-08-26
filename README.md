@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./google-snake.gifhttps://media1.tenor.com/m/J-ZRw-fOTboAAAAC/google-snake.gif" width="100%" alt="Snake animation">
+  <img width="497" height="498" alt="Image" src="https://github.com/user-attachments/assets/70b3fa10-4734-4114-be12-81e44d799556" />
 </p>
 
 <h1 align="center">Hey 👋</h1>
