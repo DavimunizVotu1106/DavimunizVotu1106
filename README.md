@@ -39,7 +39,6 @@ Currently learning and building projects with **HTML, CSS and JavaScript**, whil
 
 - HTML & CSS
 - JavaScript
-- DOM manipulation
 - Git & GitHub
 - Web development
 - Programming fundamentals
